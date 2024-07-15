@@ -1,4 +1,4 @@
-LinkedIn Link:-
+LinkedIn Link:- https://www.linkedin.com/feed/update/urn:li:activity:7218670881139544064/
 K-means Clustering for Customer Segmentation This repository demonstrates K-means clustering for customer segmentation based on their annual income and spending score.
 
 Overview K-means clustering is a popular unsupervised machine learning algorithm used for clustering data points into a specified number of clusters. In this project, we apply K-means clustering to segment customers based on two features: 1.Annual Income: The annual income of customers. 2.Spending Score: A score assigned to customers based on their spending behavior. The dataset used here is synthetic and consists of 20 customer records.
